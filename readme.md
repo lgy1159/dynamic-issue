@@ -1,5 +1,3 @@
-Here's a concise English description of your problem for Dynamic support:
-
 ## Issue Title
 **ZeroDev Multi-Chain RPC Configuration Not Working - Custom RPC URLs Ignored**
 
