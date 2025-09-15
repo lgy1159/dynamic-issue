@@ -30,6 +30,3 @@ ZeroDev should respect the custom RPC URLs I've configured and use them for bloc
 ### Questions
 Is there a specific configuration hierarchy or additional setup required to make ZeroDev respect custom RPC URLs in a multi-chain Dynamic integration? The documentation doesn't clearly address this scenario for production environments where dashboard configuration isn't preferred.
 
----
-
-This version focuses purely on describing the problem without code examples, making it suitable for submitting to Dynamic's support channels.
