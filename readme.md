@@ -11,7 +11,7 @@ When using ZeroDev with Dynamic SDK, the `setBalance` method consistently calls 
 ### Attempted Solutions
 I've tried three different approaches to configure custom RPC URLs:
 
-1. **Dynamic Chains & Networks Tab Configuration** - Added custom RPC URLs in the `evmNetworks` configuration within DynamicContextProvider settings
+1. **Dynamic Chains & Networks Tab Configuration** - Added custom RPC URLs in the `Chains & Networks` configuration
 2. **ZeroDevSmartWalletConnectorsWithConfig** - Used the config parameter to dynamically assign RPC URLs during `switchNetwork` operations  
 3. **Wagmi Provider Setup** - Configured custom transports in wagmi config and wrapped the app with DynamicWagmiConnector
 
